@@ -1,172 +1,183 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/es/post/lorem-ipsum/</loc>
+    <loc>https://bennett-doris.github.io/es/post/lorem-ipsum/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/lorem-ipsum/"
+                href="https://bennett-doris.github.io/post/lorem-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/lorem-ipsum/"
+                href="https://bennett-doris.github.io/es/post/lorem-ipsum/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://bennett-doris.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://bennett-doris.github.io/es/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/comments-example/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/comments-example/</loc>
     <lastmod>2019-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/comments-example/"
+                href="https://bennett-doris.github.io/post/comments-example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/comments-example/"
+                href="https://bennett-doris.github.io/es/post/comments-example/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post2/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post2/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post2/"
+                href="https://bennett-doris.github.io/post/post2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post2/"
+                href="https://bennett-doris.github.io/es/post/post2/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post5/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post5/</loc>
     <lastmod>2019-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post5/"
+                href="https://bennett-doris.github.io/post/post5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post5/"
+                href="https://bennett-doris.github.io/es/post/post5/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post4/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post4/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post4/"
+                href="https://bennett-doris.github.io/post/post4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post4/"
+                href="https://bennett-doris.github.io/es/post/post4/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post3/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post3/"
+                href="https://bennett-doris.github.io/post/post3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post3/"
+                href="https://bennett-doris.github.io/es/post/post3/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post6/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post6/</loc>
     <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post6/"
+                href="https://bennett-doris.github.io/post/post6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post6/"
+                href="https://bennett-doris.github.io/es/post/post6/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post7/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post7/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post7/"
+                href="https://bennett-doris.github.io/post/post7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post7/"
+                href="https://bennett-doris.github.io/es/post/post7/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post8/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post8/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post8/"
+                href="https://bennett-doris.github.io/post/post8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post8/"
+                href="https://bennett-doris.github.io/es/post/post8/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post/"
+                href="https://bennett-doris.github.io/post/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post/"
+                href="https://bennett-doris.github.io/es/post/post/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/generic-page/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/generic-page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/generic-page/"
+                href="https://bennett-doris.github.io/generic-page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/generic-page/"
+                href="https://bennett-doris.github.io/es/generic-page/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/es/post/post1/</loc>
+  </url>
+  <url>
+    <loc>https://bennett-doris.github.io/es/post/post1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post1/"
+                href="https://bennett-doris.github.io/post/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/post/post1/"
+                href="https://bennett-doris.github.io/es/post/post1/"
                 />
   </url>
 </urlset>
